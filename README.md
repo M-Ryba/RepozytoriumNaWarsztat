@@ -9,10 +9,8 @@
 >Cytat
 
 1. Zagnieżdżona
-
-  1.1. Lista
-
-  1.2. Numeryczna
+    1. Lista
+    2. Numeryczna
 - Zagnieżdżona
   - Lista
   - Nienumeryczna
