@@ -1,10 +1,17 @@
 # Nagłówek
+
 ~~Przekreślony paragraf~~
+
 **Pogrubiony paragraf**
+
 *Pragraf w kuryswie*
+
 >Cytat
+
 1. Zagnieżdżona
+
   1.1. Lista
+
   1.2. Numeryczna
 - Zagnieżdżona
   - Lista
