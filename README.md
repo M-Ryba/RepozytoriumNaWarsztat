@@ -29,4 +29,4 @@ else
 echo "False"
 fi
 ```
-![git](img/git.jpg)
+![git](img/git.png)
