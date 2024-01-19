@@ -1,4 +1,4 @@
-import main
+import main  # potrzebne żeby używać funkcji z pliku main.py
 
 
 def test_is_adult():
