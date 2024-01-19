@@ -10,4 +10,4 @@ def test_is_adult():
 
 def test_is_not_adult():
     assert not main.is_adult(17)
-    assert not main.is_adult(19)
+    assert not main.is_adult(0)
