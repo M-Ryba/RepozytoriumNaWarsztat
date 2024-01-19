@@ -9,7 +9,7 @@
 - Zagnieżdżona
   - Lista
   - Nienumeryczna
-[//]: # (Komentarz)
+
 `
 #!/bin/bash
 read -r -d '' tekst
